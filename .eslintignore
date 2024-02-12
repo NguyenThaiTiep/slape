@@ -1,0 +1,9 @@
+node_modules/
+dist
+build
+yarn.lock
+*.svg
+*.png
+**/dist
+**/build
+*.js
